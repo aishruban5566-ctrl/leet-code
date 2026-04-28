@@ -19,14 +19,17 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
