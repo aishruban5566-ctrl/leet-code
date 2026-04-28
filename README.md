@@ -6,6 +6,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -27,8 +28,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0005-longest-palindromic-substring) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0005-longest-palindromic-substring) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
