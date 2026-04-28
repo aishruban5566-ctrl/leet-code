@@ -21,18 +21,21 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
