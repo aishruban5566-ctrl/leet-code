@@ -95,4 +95,16 @@
 | ------- |
 | [0113-path-sum-ii](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
