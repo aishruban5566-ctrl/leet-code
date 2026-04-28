@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0796-rotate-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0796-rotate-string) |
 ## Hash Table
 |  |
 | ------- |
