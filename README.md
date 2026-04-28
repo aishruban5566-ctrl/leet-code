@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0796-rotate-string) |
@@ -21,6 +22,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -28,6 +30,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -35,6 +38,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
@@ -63,4 +67,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/aishruban5566-ctrl/leet-code/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
